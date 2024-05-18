@@ -10,17 +10,6 @@ This is the first in a series of seven repositories designed to help you progres
 4. `npm start`
 
 
-## React Learning Series
-This repository is part of a learning series which includes the following:
-1. [React application for user listing](https://github.com/tanishabisht/Learn-ReactUsersListing)
-2. [Hooks in React](https://github.com/tanishabisht/Learn-ReactHooks)
-3. [State Management in React](https://github.com/tanishabisht/Learn-ReactStateManagement)
-4. [Material-UI in React](https://github.com/tanishabisht/Learn-ReactMUI)
-5. [Redux in React](https://github.com/tanishabisht/Learn-ReactRedux)
-6. [Optimizing React Apps](https://github.com/tanishabisht/Learn-ReactOptimization)
-7. [Building a Burger Builder App in React](https://github.com/tanishabisht/Learn-ReactBurgerBuilder)
-
-
 ## TASK: Implement these features in your application
 - **Authentication:** Enables users to sign up and sign in. Authentication verifies if the user's credentials are stored and correct.
 - **User Management:** Authenticated users can view, edit, or delete other users' details directly through a user-friendly web interface.
@@ -33,3 +22,14 @@ This repository is part of a learning series which includes the following:
 3. **React Router Dom:** Facilitates routing in a single-page application setup.
 4. **React Toastify:** Used for displaying notifications like warnings and success messages.
 5. **React Loader Spinner:** Improves user experience by displaying loaders during data fetching or processing events.
+
+
+## React Learning Series
+This repository is part of a learning series which includes the following:
+1. [React application for user listing](https://github.com/tanishabisht/Learn-ReactUsersListing) (this repository)
+2. [Hooks in React](https://github.com/tanishabisht/Learn-ReactHooks)
+3. [State Management in React](https://github.com/tanishabisht/Learn-ReactStateManagement)
+4. [Material-UI in React](https://github.com/tanishabisht/Learn-ReactMUI)
+5. [Redux in React](https://github.com/tanishabisht/Learn-ReactRedux)
+6. [Optimizing React Apps](https://github.com/tanishabisht/Learn-ReactOptimization)
+7. [Building a Burger Builder App in React](https://github.com/tanishabisht/Learn-ReactBurgerBuilder)
